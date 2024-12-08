@@ -1,0 +1,83 @@
+Python Basics
+Write a Python program to swap two numbers without using a temporary variable. --/
+Create a program to check if a given number is odd or even. ---/
+Write a Python program to calculate the factorial of a number.
+Create a program to reverse a string without using slicing.
+Write a Python script to print the Fibonacci series up to a given number.
+
+Data Structures
+Write a Python program to find the largest and smallest elements in a list.
+Create a program to count the frequency of each character in a string.
+Write a Python script to merge two dictionaries.
+Implement a stack using a list in Python.
+Create a program to sort a list of tuples based on the second element.
+
+File Handling
+Write a Python program to read a file and count the number of lines and words in it.
+Create a program to find and replace a word in a text file.
+Write a Python program to append content to a file.
+Create a script to display only the first 5 lines of a file.
+Write a program to count the occurrence of a specific word in a text file.
+
+Functions
+Write a function to check if a given string is a palindrome.
+Create a Python function to find the sum of all elements in a list.
+Write a function to convert Celsius to Fahrenheit and vice versa.
+Implement a recursive function to calculate the power of a number.
+Write a function to calculate the GCD of two numbers.
+
+OOP (Object-Oriented Programming)
+Define a class Rectangle and calculate the area and perimeter of a rectangle.
+Create a class BankAccount with methods for deposit, withdrawal, and balance inquiry.
+Write a Python program to implement inheritance by defining a base class Vehicle and a derived class Car.
+Implement a class Student with attributes for name, marks, and grade. Include methods to display student details.
+Write a program to demonstrate method overloading in Python.
+
+Error and Exception Handling
+Write a Python program to handle division by zero using try-except.
+Create a program to raise and catch a custom exception.
+Write a Python script to handle multiple exceptions in a single block.
+Create a program to open a file, and handle the error if the file does not exist.
+Write a program to validate user input and raise a ValueError if the input is invalid.
+
+Libraries and Modules
+Write a Python script to demonstrate the use of the math module.
+Create a program to generate a random password using the random module.
+Write a Python script to calculate statistics (mean, median, mode) using the statistics module.
+Implement a program to create and plot a simple line graph using matplotlib.
+Write a program to read and write data in JSON format using the json module.
+
+Advanced Topics
+Write a Python script to demonstrate the use of a generator function.
+Create a program to implement a decorator function.
+Write a Python script to implement a simple lambda function for filtering even numbers from a list.
+Create a program to demonstrate list comprehensions with a practical example.
+Write a Python program to demonstrate the use of *args and **kwargs.
+
+Database Handling
+Write a Python script to connect to a SQLite database and create a table.
+Create a program to insert data into a SQLite database using Python.
+Write a Python script to fetch and display data from a SQLite database.
+Create a program to update and delete records in a SQLite database using Python.
+Write a Python script to handle database connection errors.
+
+Web and APIs
+Write a Python program to make a GET request using the requests library.
+Create a script to parse JSON data from a REST API response.
+Write a Python program to scrape data from a webpage using BeautifulSoup.
+Create a program to download a file from a URL using Python.
+Write a script to automate a simple task (e.g., sending an email) using Python.
+
+Algorithms
+Write a program to implement the bubble sort algorithm.
+Create a program to perform binary search on a sorted list.
+Write a Python script to check if a number is prime.
+Implement a program to find the longest common subsequence of two strings.
+Write a Python program to find the maximum subarray sum using Kadane's Algorithm.
+
+Miscellaneous
+Write a Python script to calculate the sum of digits of a given number.
+Create a program to find all the permutations of a given string.
+Write a Python program to count the number of vowels and consonants in a string.
+Create a program to check if two strings are anagrams of each other.
+Write a Python script to solve a quadratic equation
